@@ -1,3 +1,8 @@
+https://www.youtube.com/watch?v=IkiklWtz1sg&t=2474s
+https://docs.openstack.org/devstack/latest/
+https://docs.openstack.org/devstack/latest/networking.html
+https://docs.openstack.org/install-guide/launch-instance-networks-selfservice.html
+http://snakeproject.ru/rubric/article.php?art=dns_ubuntu_14102020
 
 setup
 
