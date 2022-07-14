@@ -232,7 +232,7 @@
 	
 <details><summary>Ответ</summary>
 	
-
+Если я правильно понял, то можно воспользоваться https://scriptcrunch.com/groovy-script-retrieve-jenkins-credentials/
 
 </details> 
 	
@@ -262,6 +262,6 @@
 	
 <details><summary>Ответ</summary>
   	
-Можно воспользоваться вот этим способом https://github.com/cucker0/DockerImage2Df  
+Установил Jenkins и развернул nexus в контейнере. Связность работает между ними, проверял через плагин. Но с pipeline не разобрался..небыло опыта, а дельных статей не нашел.
   
 </details> 
