@@ -293,7 +293,8 @@ docker history example1 --no-trunc > test.txt
 	
 Нашел вот такой проект https://github.com/DeekshithSN/Jenkins (https://www.youtube.com/watch?v=G8wVM5irp0k) и все получилось. 
 
-Для получения информации из репозитория nexus используются скрипты images.sh и repo.sh 
+Для получения информации из репозитория nexus используются скрипты <code>[images.sh](https://github.com/Fintur8/test2/blob/main/images.sh)
+</code> и <code>[repo.sh](https://github.com/Fintur8/test2/blob/main/repo.sh)</code>
 
 в pipeline использовался Active Choices Parameter и Active Choices Reactive Parameter c указанием зависимого Referenced parameters
 
